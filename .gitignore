@@ -3,7 +3,7 @@
 /node_modules/
 
 #default upload directory
-/server/upload
+/server/upload/
 
 #db info
 /server/dbconnection.js
