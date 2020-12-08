@@ -1,3 +1,9 @@
 # Project exclude paths
 /front/node_modules/
 /node_modules/
+
+#default upload directory
+/server/upload
+
+#db info
+/server/dbconnection.js
